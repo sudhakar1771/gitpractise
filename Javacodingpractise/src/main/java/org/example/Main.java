@@ -6,5 +6,7 @@ public class Main {
         System.out.println("my first code");
         System.out.println("my second step");
         System.out.println("one more try");
+        Comeon comeon = new Comeon();
+        comeon.hlo();
     }
 }
